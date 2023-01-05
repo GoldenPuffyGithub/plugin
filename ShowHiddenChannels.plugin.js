@@ -7,7 +7,7 @@
  * @invite Jx3TjNS
  * @donate https://www.paypal.me/MircoWittrien
  * @patreon https://www.patreon.com/MircoWittrien
- * @website https://mwittrien.github.io/
+ * @website https://github.com/GoldenPuffyGithub/plugin
  * @source https://github.com/GoldenPuffyGithub/plugin/ShowHiddenChannels/
  * @updateUrl https://github.com/GoldenPuffyGithub/plugin/ShowHiddenChannels.plugin.js
  */
